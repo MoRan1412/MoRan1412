@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MoRan</h1>
-<h3 align="center">A designer</h3>
+<h3 align="center">A Designer and Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moran1412&label=Profile%20views&color=0e75b6&style=flat" alt="moran1412" /> </p>
 
