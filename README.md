@@ -9,7 +9,7 @@
     <a href="mailto:mtheme1231@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="https://instagram.com/moran_52hertz" target="_blank">
+    <a href="https://www.instagram.com/mtheme1231/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
   </p>
