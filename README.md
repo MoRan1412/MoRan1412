@@ -1,5 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋,%20I'm%20MoRan&fontSize=70&fontAlign=50&fontAlignY=35&animation=twinkling" />
+
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3F8CFF&background=00000000&center=true&vCenter=true&width=435&lines=Designer+%26+Developer;Working+on+MTheme;Always+Learning" alt="Typing SVG" />
+  </h3>
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=moran1412&label=Profile%20views&color=0e75b6&style=flat" alt="moran1412" />
