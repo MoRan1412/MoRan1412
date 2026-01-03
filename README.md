@@ -13,7 +13,7 @@
     <a href="mailto:mtheme1231@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="https://instagram.com/moran_52hertz" target="_blank">
+    <a href="https://www.instagram.com/mtheme1231/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
   </p>
@@ -48,6 +48,9 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moran1412&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moran1412&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moran1412&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  <br><br>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=moran1412&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
 </div>
