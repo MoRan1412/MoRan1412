@@ -42,10 +42,4 @@
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" />
   </p>
 
-  <br />
-
-  <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=moran1412&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-  </p>
-
 </div>
