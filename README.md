@@ -24,7 +24,7 @@
 <div align="center">
 
   <h3>🔭 Current Focus</h3>
-  <p>I’m currently working on <a href="https://www.mtheme.top/"><b>MTheme</b></a> and diving deep into <b>JavaScript</b>.</p>
+  <p>I’m currently working on <a href="https://mtheme.top/"><b>MTheme</b></a> and diving deep into <b>JavaScript</b>.</p>
 
   <h3>🛠 Languages and Tools</h3>
   <p>
